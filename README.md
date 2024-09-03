@@ -6,6 +6,9 @@ I'm a Chemical Engineering graduate who decided to shift my career towards Big D
 I used to work with a lot of data in my previous line of work to make decisions and i realised
 how powerful programming languages can be in that field and with tons of toolsets to play with
 the possibilities are endless!
+
+## 🌍https://abdorahmani.github.io/MyWebsite
+
 ## 🧰 Languages and Tools
             
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
@@ -21,6 +24,5 @@ the possibilities are endless!
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-## 🌍 https://abdorahmani.github.io/MyWebsite/
           
           
